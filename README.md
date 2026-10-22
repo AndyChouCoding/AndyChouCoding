@@ -1,4 +1,3 @@
-README.md（英文版）
 
 # Hi, I'm Andy 👋
 
