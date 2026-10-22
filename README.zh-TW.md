@@ -67,7 +67,9 @@ UI/UX 設計與產品改版
 
 ## 聯絡與交流
 
-GitHub (https://github.com/AndyChouCoding) · 個人履歷 (https://andy-cv.vercel.app/) · 電子郵件 (mailto:andychouforwk@gmail.com)
+GitHub (https://github.com/AndyChouCoding) 
+個人履歷 (https://andy-cv.vercel.app/) 
+電子郵件 (mailto:andychouforwk@gmail.com)
 
 ———
 
